@@ -23,9 +23,11 @@ Students will be able to...
 | ---------- | ------------------------------------------- |
 | 5 minutes  | Welcome, attendance                         |
 | 10 minutes | Course staff introductions                  |
-| 10 minutes | Icebreakers                                 |
+| 10 minutes | Icebreaker                                  |
 | 10 minutes | Course outline                              |
 | 15 minutes | Course norms, procedures, and administrative tasks|
+| 10 minutes | Accessing Google Classroom                  |
+| 15 minutes | First Homework Assignment                   |
 
 ## Instructor's Notes
 
@@ -34,17 +36,25 @@ Students will be able to...
     - Names and background of TEALS team members.
     - Background on TEALS program.
         - Technology Education and Literacy in Schools 
-
--   Utilize the plan developed with your teaching team for the first day of school.
-    -   The pacing guide above is a very broad suggestion.  You should adapt (or ignore) as necessary to fit your team's plan.
--   Suggested topics to cover:
-    -   Names and backgrounds of TEALS team members
-    -   Brief background on TEALS program (i.e. "Why are there so many adults here?")
-    -   Introductions/Icebreakers with students
-    -   Classroom rules, behavior expectations, grading guidelines, late work policies, etc.
-    -   Academic Integrity/Cheating policy
-    -   High-level learning objectives for course
-
+        - Run by Microsoft Philanthropies
+- Icebreaker
+    - Do Now Style Activity
+    - Mark areas of the whiteboard or tape up easel paper.
+    - Have students place sticky notes to identify classroom demographics.
+    - Questions could include:
+        - Grade
+        - CS Experience
+        - Extracurricular Groups (Sports, Band, etc.)
+- Course Outline
+    - Course Description & Outline From Syllabus
+- Course Norms, Procedures, Other Administrative Tasks
+    - Remainder of Course Syllabus
+- Accessing Google Classroom
+    - Display Course Code
+    - Students should write down or take a picture if laptops are not available on the first day.
+- First Homework Assignment
+    - Students will use Google Classroom to locate, open, and make a copy of the Course Syllabus.
+    - The copy of the syllabus will be submitted as the first assignment. 
 
 ## BJC Lecture Suggestions
 
