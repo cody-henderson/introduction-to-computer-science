@@ -6,10 +6,10 @@
 Students will be able to...
 
 -   Identify the class they are taking
--   Find the class syllabus
 -   List the high-level goals of the course
--   Access Google Classroom
 -   Describe classroom procedures, rules, and norms
+-   Access Google Classroom
+-   Find the class syllabus
 
 ## Materials/Preparation
 
