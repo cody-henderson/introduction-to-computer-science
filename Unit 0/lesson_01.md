@@ -6,13 +6,14 @@
 Students will be able to...
 
 -   Identify the class they are taking
+-   Find the class syllabus
 -   List the high-level goals of the course
+-   Access Google Classroom
 -   Describe classroom procedures, rules, and norms
 
 ## Materials/Preparation
 
 -   Class list
--   [Optional] Seating chart
 -   Bell schedule and classroom location
 -   [Unit 0 Tips](unit_0_tips.md)
 
@@ -33,9 +34,9 @@ Students will be able to...
 -   Suggested topics to cover:
     -   Names and backgrounds of TEALS team members
     -   Brief background on TEALS program (i.e. "Why are there so many adults here?")
+    -   Introductions/Icebreakers with students
     -   Classroom rules, behavior expectations, grading guidelines, late work policies, etc.
     -   Academic Integrity/Cheating policy
-    -   Introductions/Icebreakers with students
     -   High-level learning objectives for course
 
 
