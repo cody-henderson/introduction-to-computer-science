@@ -45,6 +45,8 @@ Students will be able to...
         - Grade
         - CS Experience
         - Extracurricular Groups (Sports, Band, etc.)
+        - Hobbies
+        - Latest Math Course
 - Course Outline
     - Course Description & Outline From Syllabus
 - Course Norms, Procedures, Other Administrative Tasks
