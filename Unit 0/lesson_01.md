@@ -29,6 +29,12 @@ Students will be able to...
 
 ## Instructor's Notes
 
+- Welcome & Attendance
+- Staff & TEALS Introduction
+    - Names and background of TEALS team members.
+    - Background on TEALS program.
+        - Technology Education and Literacy in Schools 
+
 -   Utilize the plan developed with your teaching team for the first day of school.
     -   The pacing guide above is a very broad suggestion.  You should adapt (or ignore) as necessary to fit your team's plan.
 -   Suggested topics to cover:
